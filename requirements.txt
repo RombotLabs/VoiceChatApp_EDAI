@@ -1,0 +1,8 @@
+TTS~=0.22.0
+faster-whisper~=1.2.1
+logging~=0.4.9.6
+ollama~=0.6.1
+requests~=2.33.1
+sounddevice~=0.5.5
+soundfile~=0.13.1
+numpy~=1.26.4
